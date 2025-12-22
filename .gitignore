@@ -1,0 +1,114 @@
+# Virtual environment
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio / data
+data/
+*.mp3
+*.wav
+
+# Models and ML artifacts
+models/
+.cache/
+huggingface/
+transformers/
+
+# OS
+.DS_Store
+# virtual environment
+myenv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# downloaded data
+data/
+*.mp3
+*.wav
+
+# models / caches
+models/
+.cache/
+huggingface/
+transformers/
+
+# OS files
+.DS_Store
+myenv/
+__pycache__/
+*.pyc
+*.mp3
+data/
+.env
+  GNU nano 6.2                                                                                                      .gitignore                                                                                                                
+# Virtual environment
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio / data
+data/
+*.mp3
+*.wav
+
+# Models and ML artifacts
+models/
+.cache/
+huggingface/
+transformers/
+
+# OS
+.DS_Store
+# virtual environment
+myenv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# downloaded data
+data/
+*.mp3
+*.wav
+
+# models / caches
+models/
+.cache/
+huggingface/
+transformers/
+
+# OS files
+.DS_Store
+myenv/
+__pycache__/
+*.pyc
+*.mp3
+data/
+.env
+
+# virtual environment
+myenv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# data & audio
+data/
+*.mp3
+*.wav
+
+# ML models & caches
+models/
+.cache/
+huggingface/
+transformers/
+
+# OS
+.DS_Store

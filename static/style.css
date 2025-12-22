@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: white;
+}
+
+.container {
+    max-width: 700px;
+    margin: 50px auto;
+    background: rgb(218, 203, 243);
+    padding: 30px;
+    border-radius: 8px;
+}
+
+input, button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+}
+
+button {
+    background: #340047;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+
+.error {
+    color: red;
+}
